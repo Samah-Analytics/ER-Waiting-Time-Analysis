@@ -10,7 +10,8 @@ This dashboard was built to map out patient flow, compare admission rates, and h
 * **Admission Volume:** Total emergency room traffic reached 9.21K patients, consisting of 4,612 admitted and 4,604 non-admitted individuals (an almost exact 50/50 split).
 * **ER Patient Satisfaction:** The overall average patient satisfaction score for the Emergency Room stands at 1.36 out of 5.
 * **Average Wait Duration:** The average baseline waiting duration for an incoming ER patient is 35.26 minutes.
-![Dashboard Preview](dashboard_preview.png)
+  
+<img width="768" height="429" alt="dashboard_preview" src="https://github.com" />
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
