@@ -11,7 +11,7 @@ This dashboard was built to map out patient flow, compare admission rates, and h
 * **ER Patient Satisfaction:** The overall average patient satisfaction score for the Emergency Room stands at 1.36 out of 5.
 * **Average Wait Duration:** The average baseline waiting duration for an incoming ER patient is 35.26 minutes.
   
-<img width="768" height="429" alt="dashboard_preview" src="https://github.com" />
+![Dashboard Preview](https://github.com)
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
