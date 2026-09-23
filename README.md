@@ -9,11 +9,10 @@ This Power BI dashboard analyzes hospital Emergency Room (ER) data to monitor pa
 * **Average Wait Duration:** The average baseline waiting duration for an incoming ER patient is 35.26 minutes.
   
 | Dashboard Preview | Admission Volume | Patient Referral |
-| :---: | :---: | :---: |
-
-<img width="768" height="488" alt="Patients Volume by Department Referal " src="https://github.com/user-attachments/assets/4094b3e4-7598-4305-9fe5-47f9784621d8" />
-<img width="768" height="488" alt="Patients Volume by Department Referal " src="https://github.com/user-attachments/assets/ed811cde-b738-48ae-ac08-f197098a98bc" />
-<img width="761" height="432" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/5ed9fe0c-71b0-440d-b38d-53d098043386" />
+| :--<img width="750" height="442" alt="Admitted Vs Not Admitted" src="https://github.com/user-attachments/assets/9a9e5e7a-500c-48b4-927a-cd3c9b572005" />
+<img width="761" height="432" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/1d9c00f2-451c-467c-a9db-94bbee69f1fa" />
+-: | :---: | :--<img width="768" height="488" alt="Patients Volume by Department Referal " src="https://github.com/user-attachments/assets/aaf2101c-0f06-47ed-bc27-bb9693f7cf81" />
+-: |
 
 
 ## 🛠️ Tech Stack & Tools
