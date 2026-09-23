@@ -21,8 +21,6 @@ This Power BI dashboard analyzes hospital Emergency Room (ER) data to monitor pa
 ### 3. Patients Volume by Department Referral
 ![Patients Volume by Department Referral](Asstest/Patients%20Volume%20by%20Department%20Referral%20and%20Admission%20Status.png)
 
-
-
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
 * **Data Source:** Mock Healthcare Dataset (CSV)
