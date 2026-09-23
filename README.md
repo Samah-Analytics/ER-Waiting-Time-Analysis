@@ -8,11 +8,11 @@ This Power BI dashboard analyzes hospital Emergency Room (ER) data to monitor pa
 * **ER Patient Satisfaction:** The overall average patient satisfaction score for the Emergency Room stands at 1.36 out of 5.
 * **Average Wait Duration:** The average baseline waiting duration for an incoming ER patient is 35.26 minutes.
   
+## 📈 Visualized Dashboards & Charts
+
 | Dashboard Preview | Admission Volume | Patient Referral |
-|      <img width="768" height="488" alt="Patients Volume by Department Referal " src="https://github.com/user-attachments/assets/658ea232-eb62-46a9-a2f0-3ffcff169457" />
-<img width="750" height="442" alt="Admitted Vs Not Admitted" src="https://github.com/user-attachments/assets/733e8034-7c86-4185-9c93-9b20f68fd2fa" />
-<img width="761" height="432" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/77befd39-19a9-4359-9609-069dd90d6fc7" />
-             |                  |                  |
+| :---: | :---: | :---: |
+| <img src="Asstest/Dashboard%20Preview.png" width="260" height="180" /> | <img src="Asstest/Admitted%20Vs%20Not%20Admitted.png" width="260" height="180" /> | <img src="Asstest/Patients%20Volume%20by%20Department%20Referral%20and%20Admission%20Status.png" width="260" height="180" /> |
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
