@@ -27,7 +27,7 @@ The goal was to identify possible operational bottlenecks and areas for further 
 2. **Data Transformation:** Cleaned dates, calculated waiting durations, and grouped ages using Power Query.
 3. **Dashboard Design:** Developed interactive visuals focused on patient flow metrics and volume trends.
 
-##🔎 **Recommendations**
+## 🔎 **Recommendations**
 
 1. **Clarify the waiting-time data**
 The reported average waiting time is 35.26 minutes, but the dataset does not clearly explain what this waiting time represents. Before using it to make operational decisions, I would verify whether it measures time to triage, first assessment, treatment, or another stage of the ER process.
