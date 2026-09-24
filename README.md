@@ -11,12 +11,19 @@ The goal was to identify possible operational bottlenecks and areas for further 
 * **Average Wait Duration:** The average baseline waiting duration for an incoming ER patient is 35.26 minutes.
   
 ## 📈 Visualized Dashboards & Charts
-
-| Dashboard Preview | Admission Volume | Patient Referral |
-| :---: | :---: | :---: |
-| <img src="Asstest/Dashboard%20Preview.png" width="260" height="180" /> | <img src="Asstest/Admitted%20Vs%20Not%20Admitted.png" width="260" height="180" /> |  |
+<table>
+  <tr>
+    <td align="center"><b>Dashboard Preview</b></td>
+    <td align="center"><b>Admission Volume</b></td>
+    <td align="center"><b>Patient Referral</b></td>
+  </tr>
+  <tr>
+    <td><img src="Asstest/Dashboard Preview.png" width="300" alt="Dashboard Preview"></td>
+    <td><img src="Asstest/Admitted Vs Not Admitted.png" width="300" alt="Admission Volume"></td>
+    <td><img src="Patient-Referral .png" width="300" alt="Patient Referral"></td>
+  </tr>
+</table>
  
-
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization:** Power BI Desktop
 * **Data Source:** Mock Healthcare Dataset (CSV)
