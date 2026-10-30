@@ -42,4 +42,4 @@ The reported average waiting time is 35.26 minutes, but the dataset does not cle
 2. **Improve the data available for analysis**
 More detailed timestamps would make the analysis much more useful—for example, arrival, triage, first assessment, treatment, admission/discharge, and total ER stay. This would help identify exactly where delays occur rather than relying on one overall waiting-time measure.
 
-
+3. *Investigate the non-admitted patient rate* The analysis indicates that the non-admitted rate has reached 50%, which is considered an exceptionally high percentage for an ER setting. Further investigation is required to determine whether this is driven by restrictive admission criteria, lack of inpatient bed capacity, or potential inefficiencies in the initial triage screening process.
